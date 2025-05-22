@@ -1,6 +1,5 @@
 # UNIDAD DE TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES - UPEA
 
-![Logo UPEA](https://upload.wikimedia.org/wikipedia/commons/8/81/UPEA-logo.jpg)
 
 Bienvenidos al repositorio institucional de despliegue de sistemas de la **Unidad de Tecnologías de la Información y Comunicaciones (UTIC)** de la Universidad Pública de El Alto (UPEA).
 
@@ -49,20 +48,23 @@ Este repositorio tiene como finalidad:
 - Brindar un punto centralizado para revisión y colaboración institucional.
 - Establecer una base para futuras integraciones con herramientas DevOps e infraestructura automatizada.
 
----
-
 ## 📁 Estructura del Repositorio
+
+```text
 📂 proyectos/
 ├── sistema_administrativo_laravel/
 ├── plataforma_educativa_react/
 ├── sistema_eventos_vue_nuxt/
 └── otros/
-📁 docs/
+
+📂 docs/
 ├── manuales/
 └── diagramas/
-📁 devops/
+
+📂 devops/
 ├── docker-compose/
 └── github-actions/
+
 
 ---
 
