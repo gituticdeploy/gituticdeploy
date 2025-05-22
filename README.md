@@ -64,20 +64,18 @@ Este repositorio tiene como finalidad:
 📂 devops/
 ├── docker-compose/
 └── github-actions/
+```
 
-
----
 
 ## 📞 Contacto Institucional
 
 **Unidad de Tecnologías de la Información y Comunicaciones (UTIC-UPEA)**  
-📧 Email: utic@upea.bo  
-🌐 Web institucional: [www.upea.bo](https://www.upea.bo)  
-📍 Dirección: Av. Sucre A s/n, Zona Villa Esperanza, El Alto – Bolivia
+📧 **Email:** utic@upea.bo  
+🌐 **Web institucional:** [www.upea.bo](https://www.upea.bo)  
+📍 **Dirección:** Av. Sucre A s/n, Zona Villa Esperanza, El Alto – Bolivia
 
 ---
 
 > _Este repositorio es de carácter institucional y representa el compromiso de la UTIC-UPEA con el desarrollo tecnológico, la innovación y la mejora continua al servicio de la comunidad universitaria._
-
-
+****
 
